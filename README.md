@@ -36,7 +36,7 @@
 <a href="https://youtube.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_GMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:merajhusain99290@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
@@ -51,16 +51,4 @@
 
 ---
 
-<p align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=USER_NAME" />
-
-</p>
-
----
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Learner;DSA+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
-
-</p>
