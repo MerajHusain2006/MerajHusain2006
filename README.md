@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Meraj Husain</h1>
-<h3 align="center">A passionate AI/ML & Full Stack Developer from india</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Always+Learning+New+Things" />
